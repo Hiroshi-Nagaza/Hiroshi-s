@@ -121,24 +121,3 @@ addCommandHandler("setmodel",
         end
     end
 )
-
---[[
-local textureRemove = dxCreateTexture("base.png")
-local shaderRemove = dxCreateShader( "shader.fx", 0, 0, false, "ped" )
-
-local shader2 = dxCreateShader( "shader.fx", 0, 0, false, "ped" )
-local texture2 = dxCreateTexture("Calca.png")
-engineApplyShaderToWorldTexture( shaderRemove, "Biquinii", localPlayer )
-engineApplyShaderToWorldTexture( shaderRemove, "Pernas", localPlayer )
-engineApplyShaderToWorldTexture( shader2, "Calca", localPlayer )
-dxSetShaderValue(shader2, "gTexture", texture2)
-dxSetShaderValue(shaderRemove, "gTexture", textureRemove)
-
-local shader = dxCreateShader( "shader.fx", 0, 0, false, "ped" )
-local texture = dxCreateTexture("Blusa10.png")
---engineApplyShaderToWorldTexture( shaderRemove, "Biquini", localPlayer )
---engineApplyShaderToWorldTexture( shaderRemove, "Bracos", localPlayer )
---engineApplyShaderToWorldTexture( shaderRemove, "Body", localPlayer )
-engineApplyShaderToWorldTexture( shader, "Blusa20", localPlayer )
-dxSetShaderValue(shader, "gTexture", texture)
-dxSetShaderValue(shaderRemove, "gTexture", textureRemove)]]
