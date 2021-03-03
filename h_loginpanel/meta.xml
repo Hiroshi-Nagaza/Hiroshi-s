@@ -1,0 +1,16 @@
+<HiroShi>
+	<script src="sourceC.lua" type="client"/>
+	<script src="sourceS.lua" type="server"/>
+	<script src="sourceG.lua" type="shared"/>
+	<file src="assets/fundo.png" />	
+	<file src="assets/template_main.png" />
+	<file src="assets/registro.png" />
+	<file src="assets/login.png" />
+	<file src="assets/register_button.png" />
+	<file src="assets/login_button.png" />
+	<file src="assets/template_main.png" />
+	<file src="assets/bar_up.png" />
+	<file src="assets/fundo_preench.png" />
+	<file src="assets/logo.png" />
+	<file src="assets/music.mp3" />
+</HiroShi>
