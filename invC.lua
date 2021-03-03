@@ -170,3 +170,5 @@ function isCursorOnElement( posX, posY, width, height )
   end
   return false
 end
+
+--Autor: Hiroshi
