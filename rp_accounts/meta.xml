@@ -1,0 +1,25 @@
+<realplayer>
+	
+	<script src='charC.lua' type='client' cashe='false'/>
+	<script src='charS.lua' type='server' cashe='false'/>
+
+	<file src='assets/background.png'/>
+	<file src='assets/bar.png'/>
+	<file src='assets/create.png'/>
+	<file src='assets/credits.png'/>
+	<file src='assets/enter.png'/>
+	<file src='assets/home.png'/>
+	<file src='assets/infos.png'/>
+	<file src='assets/line.png'/>
+	<file src='assets/left.png'/>
+	<file src='assets/right.png'/>
+	<file src='assets/stroker.png'/>
+
+	<file src='assets/bong.mp3'/>
+
+	<file src='assets/credits/text.png'/>
+	<file src='assets/hasAccount/person_background.png'/>
+	<file src='assets/infos/text.png'/>
+	<file src='assets/notHasAccount/text.png'/>
+
+</realplayer>
