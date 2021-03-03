@@ -1,0 +1,16 @@
+<meta>
+	 <script src="client.lua" type="client" cache="false"/>
+	 
+	 <export function="getFont" type="client" />
+	 
+	 <file src="fonts/font_1.ttf" />
+	 <file src="fonts/font_2.ttf" />
+ 	 <file src="fonts/font_3.ttf" />
+	 <file src="fonts/font_4.ttf" />
+	 <file src="fonts/font_5.ttf" />
+	 <file src="fonts/font_6.otf" />
+	 <file src="fonts/font_7.otf" />
+	 <file src="fonts/font_8.otf" />
+	 <file src="fonts/font_9.otf" />
+	 <file src="fonts/font_10.ttf" />
+</meta>
